@@ -65,7 +65,7 @@
 // CHAPTER3
 
 // // Q1
-// var age=25;
+// var age=24;
 // alert("I am " +age+ " years old.");
 
 // // Q2
